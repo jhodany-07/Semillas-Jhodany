@@ -1,0 +1,117 @@
+---
+title: "Efecto de la luz en la germinación de trigo (*Triticum aestivum* L.): un enfoque experimental"
+author: "Parejas Jhodany, Roman Lleyner, Saldaña Magali & Vasquez Erik  "
+format: html
+editor: visual
+html:
+    toc: true
+    toc-location: left
+    number-sections: true
+    embed-resources: true
+    output-file: index
+---
+
+# I. INTRODUCCIÓN
+
+El trigo (*Triticum aestivum*) es una de las primeras especies que el hombre domesticó y utilizó para su alimentación, lo que fue factor importante para los primeros asentamientos humanos en los inicios de las primeras civilizaciones de Asia, Europa y África (Noriega et al, 2019).
+
+La germinación de la semilla de trigo es una de las fases más importantes en su ciclo de vida, ya que determina el establecimiento y desarrollo inicial del cultivo. Para este proceso de la germinación influye la temperatura, la humedad, el oxígeno y la luz. En el caso del trigo (Triticum aestivum), comprender como responde la semilla a la presencia o ausencia de luz durante la germinación nos permite profundizar en su fisiología y además adaptar prácticas agrícolas que optimicen su desarrollo (Avila et al., 2014)
+
+![*Figura 1: Proceso germinativo de semilla de trigo.*](D:/Germinado.png){width="50%"}
+
+# II. OBJETIVOS
+
+![](D:/objetivos.png){width="100%"}
+
+# III. METODOLOGÍA
+
+## 3.1 Lugar y fecha del experimento
+
+El estudio corresponde a una investigación de tipo experimental se llevó a cabo en la universidad Nacional Toribio Rodríguez de Mendoza.
+
+## 3.2 Diseño Experimental
+
+El experimento se realizó bajo un Diseño de Bloques Completamente al Azar (DBCA) con dos tratamientos:
+
+**T1:** Semillas con exposición a la luz.
+
+**T2:** Semillas sin exposición a la luz.
+
+Se utilizaron seis repeticiones por tratamiento, en cada unidad experimental se colocó 25 semillas de trigo (Triticum aestivum).
+
+![*Figura 2: Tratamientos*](D:/metodo%201.png){width="50%"}
+
+![*Figura 3: Etiquetas*](D:/metodo%202.png){width="30%"}
+
+## 3.3 Condiciones del Experimento
+
+-   Las semillas fueron colocadas en táper transparentes, con base de papel toalla y a cada recipiente se le aplicó 10 ml de agua.
+-   Se mantuvo una temperatura normal, sin ninguna alteración.
+-   Los tápers transparentes del tratamiento (T2) fueron cubiertas completamente con papel aluminio para simular condiciones de oscuridad.
+
+## 3.4 Variables Evaluadas
+
+-   Germinabilidad (gsp)
+-   Tiempo medio de germinación (mgt)
+-   índice de sincronización (syn)
+
+![*Figura 4: Evaluación de germinación*](D:/semilla%201.png){width="70%"}
+
+# IV. RESULTADOS Y DISCUSIÓN
+
+## Objetivo 1: Germinabilidad (% de semillas germinadas) (gsp).
+
+![Figura 5: Porcentaje de germinación (gsp)](D:/gsp_Luz.png){width="90%"} Del Grafico:
+
+**Con luz:** El porcentaje de germinación alcanza valores cercanos al 100%, indicando una alta capacidad germinativa bajo condiciones de iluminación.
+
+**Sin luz:** Aunque el porcentaje de germinación sigue siendo alto (mayor al 95%), se observa una ligera disminución, situándose por debajo del 97%.
+
+El análisis de la variable grp en semillas de trigo bajo condiciones de luz y oscuridad no evidenció diferencias significativas entre tratamientos, indicando que la exposición lumínica no afectó el parámetro evaluado. Este resultado sugiere que, en etapas iniciales de germinación, las semillas de trigo no dependen de la luz para activar los procesos fisiológicos relacionados con grp.
+
+## Objetivo 2: Tiempo medio de germinación (mgt).
+
+![*Figura 6: Tiempo medio de germinación (mgt)*](D:/mgt%20~%20Luz.png){width="90%"}
+
+Del GRafíco:
+
+**Con luz:** El tiempo medio de germinación es ligeramente menor, aproximadamente 1.8 días.
+
+**Sin luz:** El tiempo medio se incrementa ligeramente a alrededor de 2 días.
+
+El tiempo medio de germinación (mgt) de las semillas de trigo bajo condiciones de luz (Con luz y Sin luz) no presentó diferencias estadísticamente significativas.
+
+Estos hallazgos son consistentes con el comportamiento de especies de cereales, en las cuales la germinación depende principalmente de factores como la disponibilidad de agua y temperatura, más que de estímulos lumínicos.
+
+## Objetivo 3: Índice de sincronización (syn).
+
+![*Figura 7: Índice de sincronización (syn)*](D:/syn%20~%20Luz.png){width="90%"}
+
+Del Gráfico:
+
+**Con luz:** El índice de sincronización es menor (\~0.51), indicando que las semillas germinan en un rango de tiempos más amplio (menos sincronizadas).
+
+**Sin luz:** El índice es mayor (\~0.6), lo que sugiere que la mayoría de las semillas germinan en un tiempo más cercano unas a otras (mayor sincronización).
+
+## Tiempo de germinación de las semillas.
+
+![*Figura 8: Tiempo de germinación de las semillas*](D:/Velocidad%20de%20germinación.png){width="90%"}
+
+El grafico sugiere que no existe diferencia significativa en el tiempo de germinación de semillas en presencia ausencia de luz. Por lo que se puede deducir que la luz no influye en el proceso germinativos total de las semillas.
+
+![*Figura 9: Diferencia de crecimiento*](D:/comparación.png){width="55%"}
+
+# V. CONCLUSIONES
+
+**Objetivo 1**: La luz optimiza, pero no es indispensable para la germinación de las semillas de trigo. La germinación de las semillas de trigo no depende estrictamente de la presencia de luz. Este comportamiento es típico de semillas que son no fotoblásticas (es decir, no requieren luz para germinar).
+
+**Objetivo 2:** Aunque la diferencia no es drástica, se confirma que la luz promueve una germinación más rápida. La luz podría estar actuando como un acelerador de ciertos procesos metabólicos iniciales en las semillas, reduciendo el tiempo requerido para la emergencia de la radícula
+
+**Objetivo 3:** La oscuridad favorece una germinación más sincronizada, aunque a un ritmo un poco más lento. En condiciones de oscuridad, las semillas parecen responder de manera más homogénea, quizás debido a la eliminación de variables como la heterogeneidad en la recepción de luz entre las semillas.
+
+# VI. REFERENCIAS BIBLIOGRÁFICAS
+
+-   Ávila, J. A., Ávila, J. M., Rivas, F. J., & Martínez, D. (2014). El cultivo del trigo. Fernández, S. R., Carballo, C. A., Villaseñor Mir, H. E., \* & Hernández Livera, A. (2015). Calidad de la semilla de trigo de temporal en función del ambiente de producción. Revista Mexicana de Ciencias Agrícolas, 6(6), 1239--1251.
+-   Noriega, M. A., Cervantes, F., Solís, E., Andrio, E., Rangel , J. A., Rodríguez, P. G., Mendoza, E. M., García, R. J. G., Noriega, M. A., Cervantes, O. F., Solís, M. E., Andrio, E. E., Rangel, J. A., Rodríguez, P. G., Mendoza, M., & García, J. G. (2019). EFECTO DE LA FECHA DE SIEMBRA SOBRE LA CALIDAD DE SEMILLA DE TRIGO EN EL BAJÍO, MÉXICO. Revista fitotecnia mexicana, 42(4), 375-384.
+-   Román, P. R. (2000). Efecto de iones y otros factores físicos sobre la germinación de semillas. Revista de la Sociedad Química de México, 44(3), 233-236.
+-   Rodríguez, L. D. (2019). RESERVAS EN SEMILLAS DE TRIGO (Triticum aestivum) SEGÚN.
