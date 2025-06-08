@@ -1,0 +1,31 @@
+---
+title: "Efecto de la escarificación física y química en la germinación de semillas de garbanzo (_Cicer arietinum_ L.)"
+format: html
+editor: visual
+image: profile.jpg
+about: 
+  template: trestles
+  image-shape: rectangle 
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jhodany-07/Semillas-Jhodany.git 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: Facebook
+      text: Facebook
+      href: https://facebook.com
+---
+
+## INTEGRANTES
+
+-   Edwin Mondragón
+-   Jhinmy Paredes
+-   Jhodany Parejas
+-   Nixon Pizarro
+-   Gimena Vega
+
+## Resumen
+
+Las leguminosas de grano como el garbanzo son fundamentales para la seguridad alimentaria, pero suelen presentar dormancia física que limita su germinación. Este estudio comparó cuatro tratamientos de escarificación (lija, acetona, agua caliente y un control) para superar esta barrera. La lija mostró el mayor porcentaje de germinación final (7,8 %), duplicando al control y superando significativamente a acetona y agua caliente (\\\<1 %). Aunque los porcentajes absolutos fueron bajos, el lijado adelantó la germinación (80 % al día 3) frente al control (65 % al día 5), lo que se traduce en lotes más uniformes y menos costosos de manejar. La acetona no mejoró la germinación en los tiempos probados, mientras que el agua caliente a 80 °C durante 5 minutos fue insuficiente para abrir la testa. Se recomienda optimizar el lijado mecánico y explorar ajustes en tiempo y temperatura para agua caliente y acetona, y se sugiere incluir pre-hidratación para mejorar la imbibición.
