@@ -1,4 +1,0 @@
----
-title: "INTRODUCCIÓN"
----
-{{< lipsum 1 >}}

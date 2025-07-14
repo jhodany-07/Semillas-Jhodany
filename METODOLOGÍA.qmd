@@ -1,0 +1,49 @@
+---
+title: "METODOLOGÍA"
+---
+
+## OBJETIVO 1: PRUEBA DE TETRAZOLIO
+
+### Preparación de semillas
+Se dejaron remojaran las semillas la noche anterior a la ejecución del proyecto para poder retirar el pericarpio y tegumento de la semilla, que es impermeable al tetrazolio.Se cortaron longitudinalmente las semillas. 
+### Inmersión en Tetrazolio
+Las semillas preparadas se sumergieron en una solución de cloruro de 2,3,5-trifeniltetrazolio (tetrazolio) a distintas concentraciones (0,5% y 1%) y tiempos de exposición (12 y 24 horas), en ausencia de luz y a temperatura ambiente (Salazar, 2018). 
+Transcurrido el tiempo de inmersión, las semillas se separaron de la solución usando un pequeño colador y se llevaran a un lavado previo con agua destilada para remover el exceso del colorante; posteriormente se examinaron (Méndez et al., 2011). 
+
+## OBJETIVO 2: TEST DE GERMINACIÓN
+Para la evaluación de la germinación en semillas de girasol (Helianthus annuus) , se usaron táperes de plástico con papel toalla en la base, los cuales se mantendrán húmedos. Se evaluaron 25 semillas con cinco repeticiones. Las semillas que germinaron se contaron para la determinación del porcentaje de germinación, que posteriormente se compararon con los porcentajes de viabilidad.
+
+## DISEÑO EXPERIMENTAL
+```{r}
+library(googlesheets4)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+url <- "https://docs.google.com/spreadsheets/d/1hHv-J6V39lUt5uhSaVRD6w1rYm8M4Rz90MDVHG_K6WQ/edit?gid=691322620#gid=691322620"
+gs <- as_sheets_id(url)
+libro1 <- range_read(gs, sheet = "tratamientos")
+
+kable(libro1, caption = "Tabla 1: Tratamientos") %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("striped", "hover", "condensed"))
+```
+
+El diseño experimental consistio en un análisis factorial 2x2 completamente al azar (dos concentraciones de tetrazolio y dos tiempos de exposición) con 4 repeticiones y 25 semillas por repetición para el experimento. 
+
+## VARIABLES A EVALUAR
+- Viables sin defectos: Toda semilla coloreada uniformemente y buena turgencia de los tejidos.
+- Viables con defectos moderados: Defectos leves en el ápice de la raíz. 
+- Viables con defectos severos: 1/3 del área sin teñir, deteriorada o perdida en el extremo distal de ambos cotiledones (Rosasco, 2017).
+- No viable: (anormal o sin teñir) 
+
+## ANALISIS ESTADISTICO
+Con la finalidad de comprobar el efecto de los tratamientos sobre la cantidad de embriones viables detectados, se aplicaro el análisis de varianza (ANOVA). Seguidamente, las medias se compararon a través de la prueba de Tukey, para determinar si existen diferencias significativas con nivel de significancia de 0,05 (p≤ 0.05). El análisis estadístico se realizará con el programa R.
+
+
+
+ 
+
+
+
+
+
+

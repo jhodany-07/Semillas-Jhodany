@@ -1,0 +1,13 @@
+---
+title: "CONCLUSIÓN"
+editor: visual
+---
+
+## Objetivo 1
+La prueba de tetrazolio permitió identificar un 89% de viabilidad, evidenciando que la mayoría de las semillas presentaban tejidos vivos y metabólicamente activos.
+
+## Objetivo 2
+La prueba de germinación mostró un promedio de 81.25%, confirmando en gran medida los resultados del test de tetrazolio, aunque reveló que no todas las semillas viables lograron germinar bajo condiciones estándar.
+
+## Objetivo 3
+La comparación entre ambas pruebas evidenció una diferencia del 7.75%, indicando que si bien el test de tetrazolio es confiable para estimar la viabilidad, no siempre predice completamente la capacidad germinativa de las semillas.

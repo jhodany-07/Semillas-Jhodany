@@ -1,0 +1,27 @@
+---
+title: "**INTRODUCCIÓN**"
+page-navigation: false
+image: semil.png
+about: 
+  template: trestles
+  image-shape: rectangle 
+---
+
+El girasol (_Helianthus annuus_ L.) es un cultivo de gran importancia económica, siendo la principal semilla oleaginosa de Europa y la cuarta en el mundo detrás de la soya, la palma y la canola. A su vez, es responsable del 13% del aceite vegetal producido en el mundo (Palacio & Agudelo, 2020).
+
+La elección de la semilla es una de las claves de un cultivo exitoso. La productividad de un cultivo depende principalmente de la calidad de las semillas obtenidas por el agricultor. Considerando la importancia de esta variable se han desarrollado pruebas como el test de tetrazolio, que es uno de los principales métodos de evaluación de viabilidad de la semilla (Valdivia et al., 2018).
+
+Esta prueba se basa en la actividad de las enzimas hidrolasas, particularmente deshidrogenasas del ácido málico que reduce la sal de tetrazolio a formazan en los tejidos viables de las semillas (Mercado et al., 2018).
+
+## **OBJETIVOS**
+
+### *Objetivo General*
+
+Evaluar la calidad fisiológica de las semillas de girasol (*Helianthus annuus*) con la prueba de tetrazolio
+
+### *Objetivos Especificos*
+
+1.Determinar la viabilidad de las semillas de _Helianthus annuus_ mediante la prueba de tetrazolio..
+2.Realizar a prueba de germinación fisiológica para calcular la confiabilidad del test de tetrazolio.
+3.Comparar la viabilidad y germinación de semillas de girasol (_Helianthus annuus_ ).
+

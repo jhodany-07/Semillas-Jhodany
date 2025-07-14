@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 1472fa14-6a94-40be-bf59-5a1fe937794b
+      url: 'https://jhodany.quarto.pub/grupo-5-semillas'
+    - id: e27690ea-f265-4831-8bf4-8e295c63edf6
+      url: 'https://jhodany.quarto.pub/grupo-5-girasol'

@@ -1,0 +1,12 @@
+---
+title: "DISCUSIÓN"
+editor: visual
+---
+
+En el presente estudio se evaluaron dos parámetros fisiológicos fundamentales para la calidad de semillas: viabilidad, determinada mediante la prueba de tetrazolio, y germinación, evaluada de forma independiente sin tratamiento previo.
+
+La viabilidad promedio fue del 89%, lo cual indica que una alta proporción de las semillas presentaban tejidos vivos metabólicamente activos. Esta prueba permite detectar semillas viables aun cuando no se manifieste un crecimiento inmediato. Por otro lado, la prueba de germinación mostró un porcentaje promedio de 81.25%, reflejando la proporción de semillas capaces de desarrollar plántulas normales bajo condiciones estándar de laboratorio.
+
+La diferencia de 7.75 puntos porcentuales entre ambas evaluaciones revela que, aunque muchas semillas están vivas, no todas tienen la capacidad inmediata de germinar. Esta discrepancia puede deberse a la presencia de latencia fisiológica, daños internos no detectables visualmente, o a condiciones subóptimas durante la prueba de germinación (como humedad, temperatura o tipo de sustrato)(Valdivia et al., 2018).
+
+Estos resultados concuerdan con lo reportado en la literatura, donde se resalta que la viabilidad no siempre se traduce en germinación efectiva. Por ello, se recomienda utilizar ambas pruebas de forma complementaria para una evaluación integral del estado fisiológico de los lotes de semilla.

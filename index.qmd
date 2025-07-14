@@ -1,0 +1,30 @@
+---
+title: "Evaluación de la calidad fisiológica de las semillas de girasol (Helianthus annuus) con la prueba de tetrazolio"
+format: html
+editor: visual
+page-navigation: true
+image: profile.png
+about: 
+  template: trestles
+  image-shape: rectangle 
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jhodany-07/Semillas-Jhodany.git 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: Facebook
+      text: Facebook
+      href: https://facebook.com
+---
+
+## INTEGRANTES
+
+-   Alvarado Muños, Lesly
+-    Coronel Balcázar, Marcos Andy
+-   Parejas Gonzales, Jhodany
+-   Santillán Puerta, Jaime Alexander
+-   Torres Salazar, Juan Carlos5\*
+
+## 

@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "GRUPO C"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - INTRODUCCIÓN.qmd
+      - MATERIALES.qmd
+      - METODOLOGÍA.qmd
+      - RESULTADOS.qmd 
+      - DISCUSIÓN.qmd
+      - CONCLUSIONES.qmd
+      - RECOMENDACIONES.qmd
+      - REFERENCIAS BIBLIOGRAFICAS.qmd
+    right:
+      - icon: github
+        href: https://github.com/jhodany-07/Semillas-Jhodany.git 
+      - icon: linkedin
+        href: https://linkedin.com
+      - icon: Facebook
+        href: https://facebook.com 
+      
+format:
+  html:
+    theme: [cosmo, styles.scss]
+
